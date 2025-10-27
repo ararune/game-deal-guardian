@@ -2,11 +2,6 @@
 
 A cross-platform price tracker and deal alert application designed to help gamers save money by monitoring video game prices across multiple digital storefronts. Find the best deals, track prices, and get alerts for your wishlist, all in one place. This web-app is a work in progress.
 
-![Home](images/home.png)
-![Deals](images/deals.png)
-![Deal Details](images/deals_details.png)
-![Game Details](images/game_details.png)
-
 ---
 
 ## ✨ Features
@@ -113,3 +108,10 @@ The codebase is organized into a logical and scalable structure:
 ├── App.tsx           # Main application component and layout
 └── index.tsx         # Application entry point
 ```
+
+## 📸 Image Gallery
+
+![Home](images/home.png)
+![Deals](images/deals.png)
+![Deal Details](images/deals_details.png)
+![Game Details](images/game_details.png)
