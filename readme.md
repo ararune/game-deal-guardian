@@ -2,8 +2,6 @@
 
 A cross-platform price tracker and deal alert application designed to help gamers save money by monitoring video game prices across multiple digital storefronts. Find the best deals, track prices, and get alerts for your wishlist, all in one place. This web-app is a work in progress.
 
----
-
 ## ✨ Features
 
 -   **Comprehensive Deal Discovery:** Browse a constantly updated list of the latest game deals from various stores.
@@ -14,8 +12,6 @@ A cross-platform price tracker and deal alert application designed to help gamer
 -   **Price History:** Visualize price trends for games to make informed purchasing decisions.
 -   **Responsive Design:** A clean, modern, and fully responsive UI that works beautifully on desktop and mobile devices.
 
----
-
 ## 🛠️ Tech Stack
 
 This project is built with:
@@ -23,8 +19,6 @@ This project is built with:
 -   **Framework:** [React](https://reactjs.org/)
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-
----
 
 ## 🔌 APIs & Services
 
@@ -37,8 +31,6 @@ Game Deal Guardian relies on external APIs to provide its data. A huge thank you
 -   ### [Steam API](https://partner.steamgames.com/doc/webapi)
     -   **Usage:** Used to enrich game data with detailed descriptions, screenshots, Metacritic scores, release information, and user reviews.
     -   **Note:** As this API is called from the client-side, requests are routed through a CORS proxy (`corsproxy.io`) to prevent cross-origin issues.
-
----
 
 ## 🚀 Getting Started
 
@@ -86,8 +78,6 @@ Make sure you have the following software installed on your machine:
 
 2.  **Open in your browser:**
     The application should now be running at [http://localhost:5173](http://localhost:5173) (or the next available port).
-
----
 
 ## 📂 Project Structure
 
