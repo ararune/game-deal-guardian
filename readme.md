@@ -18,13 +18,11 @@ A cross-platform price tracker and deal alert application designed to help gamer
 
 ## 🛠️ Tech Stack
 
-This project is built with a modern and robust frontend stack:
+This project is built with:
 
 -   **Framework:** [React](https://reactjs.org/)
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
--   **State Management:** React Context API
--   **Client-side Fetching:** Native Fetch API
 
 ---
 
