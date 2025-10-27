@@ -110,29 +110,3 @@ The codebase is organized into a logical and scalable structure:
 ├── App.tsx           # Main application component and layout
 └── index.tsx         # Application entry point
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or want to fix a bug, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## 🙏 Acknowledgements
-
--   [CheapShark](https://www.cheapshark.com/) for providing the excellent and free-to-use deals API.
--   [Valve](https://www.valvesoftware.com/en/) for the comprehensive Steam API.
--   [Tailwind CSS](https://tailwindcss.com/) for making utility-first styling a joy.
